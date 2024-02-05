@@ -1,9 +1,0 @@
-smtplib  # Import the smtplib module
-bcrypt # pip install bcrypt
-re # pip install bcrypt
-wikipedia  # pip install wikipedia
-datetime  # pip install datetime
-os  # pip install os
-webbrowser  # pip install webbrowser
-logging  # pip install logging
-sys # pip install sys
