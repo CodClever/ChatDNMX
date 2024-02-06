@@ -12,9 +12,13 @@ It would help me a lot.
 
 
 ** INSTRUCTIONS ** :-
-1.) Extract "ChatDNMX.rar".
-2.) Open it as administrator.
-3.) Now it will run.
+1.) Download the .zip file.
+2.) Locate
+2.) Open it.
+3.) Follow through the process.
+4.) It will be installed as an app in your computer.
+5.) Locate the app and run it.
+6.) Enjoy using ChatDNMX
 
 
 
