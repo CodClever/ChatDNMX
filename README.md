@@ -17,7 +17,7 @@ It would help me a lot.
 2.) Open it.
 3.) Follow through the process.
 4.) It will be installed as an app in your computer.
-5.) Locate the app and run it.
+5.) Locate the app and run it as administrator(Do this everytime, this is run as adminstrator to create logs for authentication).
 6.) Enjoy using ChatDNMX
 
 
