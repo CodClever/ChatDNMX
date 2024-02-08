@@ -15,7 +15,7 @@ It would help me a lot.
 1.) Install the setup.
 2.) Go through the setup very carefully.
 3.) Locate ChatDNMX.
-4.) Run it as an administrator(Do this every time, this is run as administrator to create logs for authentication).
+4.) Run it as an administrator(Do this every time, this is run as an administrator to create logs for authentication).
 5.) Enjoy using ChatDNMX
 
 
