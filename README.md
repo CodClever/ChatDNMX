@@ -19,11 +19,7 @@ It would help me a lot.
 5.) Run it as an administrator(Do this every time, this is run as an administrator to create logs for authentication).
 6.) Enjoy using ChatDNMX
 
-Also an update on 01-03-2024 for the users that we are working on upgrading the app to a GUI and creating a mobile application for the same. 
-You can see the Beta preview at: https://chatdnmx.flutterflow.app
-The app is under development and still needs work.
-
-For any problems, you can search on the Internet.
+For any problems, you can search on the Internet or contact: codclever7k@gmail.com.
 
 I hope you have fun using it. :)
 
