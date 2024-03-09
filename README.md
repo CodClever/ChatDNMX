@@ -1,15 +1,34 @@
 				CHAT DNMX
 
+Our App:-
+This AI app is an app that gives you access to the latest AI features. (Adding new AI models)
+Our team has also **kinda** created our model using Wikipedia and optimized it heavily to adapt
+to the user. This is a CLI app and a GUI app is not planned in the future as converting all
+the features into a GUI version will take a lot of time. 
 
-This is a Chatbot meant to be only used for legal purposes. 
+Our Motive:-
+Educated the old and the new people about AI and how to be safe from AI. We are also creating
+app for interested people.
+
+A help:-
+We would appreciate it if someone on the internet helped us with this app and created the 
+mobile and the GUI app.
+Screenshots of the app would be nice if given to us through email.
+
+
 I do not have any relation to Wikipedia or its brands.
 
-There are limitations as it uses Wikipedia as its main search.
-This is still under development and should be considered as a beta software.
+There are limitations as it uses Wikipedia as its main search. (ChatDNMX)
+This is updated monthly and would like to get offers to work with us to optimise the user experience.
 
 Please don't hesitate to give credit to me if sharing with anyone.
 It would help me a lot.
 
+What's New:-
+1. Corrected the spelling mistakes.
+2. Created a way where the ChatDNMX will ask you API and directory location when required.
+3. Fixed common bugs.
+4. Integrated Firebase authentication.
 
 ** INSTRUCTIONS ** :-
 1.) Download the app from this link: https://drive.google.com/file/d/1Lviz2Lw_DcxeNqyTgicG29mqXcSUvYr4/view?usp=sharing
@@ -24,3 +43,4 @@ For any problems, you can search on the Internet or contact: codclever7k@gmail.c
 I hope you have fun using it. :)
 
 -Arinjay Kumar
+Developer behind ChatDNMX
