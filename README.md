@@ -1,4 +1,5 @@
-				CHAT DNMX
+<h1>ChatDNMX</h1>
+
 
 <h1>Our App:-</h1>
 This AI app is an app that gives you access to the latest AI features. (Adding new AI models)
