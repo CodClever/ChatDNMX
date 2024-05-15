@@ -1,7 +1,7 @@
 <h1>ChatDNMX</h1>
 
 
-<h1>Our App:-</h1>
+<h1>The App:-</h1>
 This AI app is an app that gives you access to the latest AI features. (Adding new AI models)
 <br>
 Our team has also **kinda** created our model using Wikipedia and optimized it heavily to adapt
@@ -12,7 +12,7 @@ the features into a GUI version will take a lot of time. All the sensitive info 
 <br>
 and stored in your machine locally.
 
-<h1>Our Motive:-</h1>
+<h1>The Motive:-</h1>
 Educated the old and the new people about AI and how to be safe from AI. We are also creating
 app for interested people.
 
