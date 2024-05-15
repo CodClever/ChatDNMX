@@ -1,7 +1,7 @@
 <h1>ChatDNMX</h1>
 
 
-<h1>The App:-</h1>
+<h1>The App👨‍💻:-</h1>
 This AI app is an app that gives you access to the latest AI features. (Adding new AI models)
 <br>
 Our team has also **kinda** created our model using Wikipedia and optimized it heavily to adapt
@@ -16,7 +16,7 @@ and stored in your machine locally.
 Educated the old and the new people about AI and how to be safe from AI. We are also creating
 app for interested people.
 
-<h1>A help:-</h1>
+<h1>A help💁‍♂️:-</h1>
 We would appreciate it if someone on the internet helped us with this app and created the 
 mobile and the GUI app.
 <br>
@@ -36,7 +36,7 @@ Please don't hesitate to give credit to me if sharing with anyone.
 It would help me a lot.
 <br>
 <br>
-<h1>Upcoming Features and Changes:-</h1>
+<h1>Upcoming Features and Changes⬆️:-</h1>
 <br>
 1. Corrected the spelling mistakes.
 <br><br>
@@ -52,7 +52,7 @@ It would help me a lot.
 6. Fixed common and major bugs/issues.
 <br>
 <br>
-<h1>** INSTRUCTIONS ** :-</h1>
+<h1>** INSTRUCTIONS ** 📔:-</h1>
 <br>
 1.) Download the app from this link: https://drive.google.com/file/d/1Lviz2Lw_DcxeNqyTgicG29mqXcSUvYr4/view?usp=sharing
 <br>
