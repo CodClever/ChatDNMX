@@ -39,16 +39,16 @@ It would help me a lot.
 <h1>Upcoming Features and Changes:-</h1>
 <br>
 1. Corrected the spelling mistakes.
-<br>
+<br><br>
 2. Created a way where the ChatDNMX will ask you API and directory location when required.
-<br>
+<br><br>
 3. All the sensitive information are encrypted by Advanced Encryption Standard (AES) 256-bit Encryption - The Most strongest and most robust encryption standard that is commercially available today.
-<br>
+<br><br>
 4. Added new AI models : 1. Gemma by Google on Groq 2. Llama 3 by Meta on Groq 3. Claude 3  Opus 4. Mixtral AI 5. Mixtral AI by Mistral on Groq and Gemini 1.5 AI which is the more improved version and the current version.
    Groq is used for Llama 3 is faster in Grop; for that reason many other AI models are also avaiable in it's Groq version. Groq is faster than normal APIs. 
-<br>
+<br><br>
 5. All the upcoming and current AI models; require APIs; so for not getting bankrupted; you have to use your own API(Note that some are paid). We didn't link the API documentation but we did linked the API; where you can get your API, from there you may also find the API documentation as well or search on the web for the details.
-<br>
+<br><br>
 6. Fixed common and major bugs/issues.
 <br>
 <br>
