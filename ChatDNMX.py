@@ -4,11 +4,11 @@
 #
 # Chat DNMX - A product made for fun.
 #
-# Arinjay Kumar Chat DNMX
+# CodClever Chat DNMX
 #
 # ©️ Copyright 2024 Arinjay Kumar
 #
-# Product by Arinjay Kumar
+# Product by CodClever
 #
 # A part of Zodiac
 #
